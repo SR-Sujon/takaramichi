@@ -1,4 +1,4 @@
-# Wasabiya
+# Takaramichi
 
 **Inbound Accommodation and Ski Rental Management Web Application for Nozawa Onsen & Hakuba Village (Front-End)**
 
