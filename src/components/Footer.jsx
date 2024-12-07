@@ -10,18 +10,17 @@ const Footer = () => {
         <div className="footer-top">
           <div className="footer-brand">
             {/**eslint-disable-next-line */}
-            <a href="https://wasabiya.co.jp/" className="logo">
+            <a href="#" className="logo">
               <img 
-                src="./assets/images/icons/logo.png" 
+                src="./assets/images/icons/takaramichi_logo.png" 
                 className="logo-icon" 
-                alt="Wasabiya logo" 
+                alt="Takaramichi logo" 
               />
             </a>
             <p className="footer-text">
-              <b><a href="https://wasabiya.co.jp/">Executive Director: Katsuhiko Mano</a></b>
-              <b><a href="https://wasabiya.co.jp/">Why is "Wasabiya" called "Wasabiya"?</a></b>
-              <b><a href="https://wasabiya.co.jp/">What is "Four-leaf Wasabi"?</a></b>
-              <b>Stakeholders: Nozawa Onsen & Hakuba Village Tourism Bureau.</b>
+              <b><a href="#">Executive Director: Manuzoto Hamono</a></b>
+              <b><a href="#">Why is "Takaramichi" called "Takaramichi"?</a></b>
+              <b><a href="#">What is "Eight-leaf Takaramichi"?</a></b>
             </p>
           </div>
 
@@ -65,7 +64,7 @@ const Footer = () => {
           </ul>
 
           <p className="copyright">
-            &copy; 2024 <a href="#">Wasabiya Co, Ltd.</a>. All Rights Reserved
+            &copy; 2024 <a href="#">Takaramichi Co, Ltd.</a>. All Rights Reserved
           </p>
         </div>
       </div>
