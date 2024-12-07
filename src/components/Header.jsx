@@ -18,11 +18,11 @@ const Header = ({ onLoginClick, onNavClick }) => { // Receive the prop
       <div className="container">
         <div className="overlay" data-overlay></div>
 
-        <a href="https://wasabiya.co.jp/" className="logo">
+        <a href="#" className="logo">
           <img
-            src="/assets/images/icons/logo.png" // Adjusted path for React
+            src="/assets/images/icons/takaramichi_logo.png" // Adjusted path for React
             className="logo-icon"
-            alt="Wasabiya logo"
+            alt="Takaramichi logo"
           />
         </a>
 
@@ -34,7 +34,7 @@ const Header = ({ onLoginClick, onNavClick }) => { // Receive the prop
               </a>
             </li>
             <li>
-              <a href="https://wasabiya.co.jp/" className="navbar-link" data-nav-link onClick={handleNavLinkClick}>
+              <a href="#" className="navbar-link" data-nav-link onClick={handleNavLinkClick}>
                 Our Facilities
               </a>
             </li>

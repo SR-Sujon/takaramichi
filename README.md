@@ -1,11 +1,11 @@
 # Takaramichi
 
-**Inbound Accommodation and Ski Rental Management Web Application for Nozawa Onsen & Hakuba Village (Front-End)**
+**Accommodation and Ski Rental Management Web Application for Nozawa, Japan (Front-End)**
 
 ![image](https://github.com/user-attachments/assets/72d28e9c-79d8-4f6c-b715-2efc5375ccaf)
 ![image](https://github.com/user-attachments/assets/1f66d008-4525-4477-9101-11c3e823c4bd)
 
-Wasabiya is a web application designed to streamline the management of inbound accommodation and ski rentals in the popular Japanese resorts of Nozawa Onsen and Hakuba Village. This user-friendly platform simplifies booking, rental management, and customer interactions, tailored specifically for businesses in these regions.
+Takaramichi is a web application designed to streamline the management of inbound accommodation and ski rentals in the popular Japanese resorts of Nozawa Onsen and Hakuba Village. This user-friendly platform simplifies booking, rental management, and customer interactions, tailored specifically for businesses in these regions.
 
 ## Features
 
@@ -30,11 +30,11 @@ To run the project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/wasabiya.git
+git clone https://github.com/yourusername/takaramichi.git
 ```
 ### 2. Install dependencies
 ```bash
-cd wasabiya
+cd takaramichi
 npm install
 ```
 ### 3. Start the application
