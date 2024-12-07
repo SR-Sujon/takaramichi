@@ -2,8 +2,9 @@
 
 **Accommodation and Ski Rental Management Web Application for Nozawa, Japan (Front-End)**
 
-![image](https://github.com/user-attachments/assets/72d28e9c-79d8-4f6c-b715-2efc5375ccaf)
-![image](https://github.com/user-attachments/assets/1f66d008-4525-4477-9101-11c3e823c4bd)
+![Takaramichi_Home](https://github.com/user-attachments/assets/4d2ed57c-9318-491c-a246-d5d0e3dd9e9a)
+
+![Takaramichi_Book](https://github.com/user-attachments/assets/7787834a-5fb7-43a3-9d25-d6f97a93b715)
 
 Takaramichi is a web application designed to streamline the management of inbound accommodation and ski rentals in the popular Japanese resorts of Nozawa Onsen and Hakuba Village. This user-friendly platform simplifies booking, rental management, and customer interactions, tailored specifically for businesses in these regions.
 
