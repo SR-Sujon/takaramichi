@@ -63,7 +63,7 @@ const Header = ({ onLoginClick, onNavClick }) => { // Receive the prop
         <div className="header-actions">
           <div className="header-contact">
             <a href="tel:88002345678" className="contact-link">
-              0267-46-8132
+              0267-46-8199
             </a>
             <span className="contact-time">
               10:00-18:00 * Excluding weekends and holidays
